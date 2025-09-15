@@ -54,14 +54,17 @@ _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 ### Academy Page 
 ![Academy Page](screenshots/Academy%20Page.png)
 
+
 ### Course Page 
 ![Course Page](screenshots/Course%20Page.png)
+
 
 ### Lesson Page 
 ![Lesson Page](screenshots/Lesson%20Page.png)
 
 
 ---
+
 
 ## Notes
 This project is being developed for a client as part of a professional Bubble development contract. It showcases real-world features and implementation for a live community platform.
