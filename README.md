@@ -52,13 +52,13 @@ _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 ## 📸 Screenshots 
 
 ### Academy Page 
-![Resource Page](screenshots/Resource%20Page.png)
+![Academy Page](screenshots/Academy%20Page.png)
 
 ### Course Page 
-![Resource Page 2](screenshots/Resource%20Page%202.png)
+![Course Page](screenshots/Course%20Page.png)
 
-### Lesson Page (Bubble Editor)
-![Resource Page (Bubble Editor)](screenshots/Resource%20Page%20%28Bubble%20Editor%29.png)
+### Lesson Page 
+![Lesson Page](screenshots/Lesson%20Page.png)
 
 
 ---
